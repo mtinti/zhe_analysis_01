@@ -2,7 +2,7 @@
 pandas==0.23.1
 seaborn==0.8.1
 biopython==1.72
-numpy==1.14.3
+numpy==1.22.0
 matplotlib==2.2.2
 plotly==3.1.0
 statsmodels
